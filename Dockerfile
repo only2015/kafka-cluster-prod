@@ -1,6 +1,6 @@
 FROM centos:7.5.1804
 
-MAINTAINER yehui "1750371836@qq.com"
+MAINTAINER only "server888@yeah.net"
 
 ENV JAVA_HOME=/usr/java/jdk
 ENV CLASSPATH=$CLASSPATH:$JAVA_HOME/lib:$JAVA_HOME/jre/lib
